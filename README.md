@@ -2,7 +2,7 @@
 
 - 📍 Seattle, WA
 
-- 🏫 Undergraduate at University of Washington
+- 🏫 Undergrad Student at University of Washington
 
 - 📖 Major in Informatics (DS) & Applied Mathematics (DS)
 
