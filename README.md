@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zefan Lu (Nickname: Luke ｜ CN: 陆则帆/陸則帆)
+- 👋 Hi, I’m Zefan Lu (Nickname: Luke ｜ CN: 陆则帆)
 
 - 📍 Seattle, WA
 
