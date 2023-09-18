@@ -4,7 +4,7 @@
 
 - 🏫 Undergrad Student at University of Washington
 
-- 📖 Major in Informatics (DS) & Applied Mathematics (DS)
+- 📖 Major in Informatics (DS & SDE) & Applied Mathematics (DS)
 
 - 📫 Reach me by email: lukezflu@gmail.com
 
