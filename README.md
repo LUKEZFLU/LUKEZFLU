@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zefan Lu (Nickname: Luke ｜ CN: 陆则帆)
 
-- 🧑‍💻 Software Engineer & Data Scientist
+- 🧑‍💻 Software Engineer
 
 - 📍 Seattle, WA
 
