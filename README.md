@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Zefan Lu (Nickname: Luke ｜ CN: 陆则帆)
+- 👋 Hi, I’m Zefan Lu (陆则帆)
 
 - 🧑‍💻 Software Engineer
 
 - 📍 Seattle, WA
 
-- 🏫 Undergraduate Student at University of Washington
+- 🏫 Senior Student @ University of Washington, Seattle
