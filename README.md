@@ -4,4 +4,4 @@
 
 - 📍 Seattle, WA
 
-- 🏫 Senior Student @ University of Washington, Seattle
+- 🏫 Student @ University of Washington, Seattle
