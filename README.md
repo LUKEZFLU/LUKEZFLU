@@ -1,6 +1,6 @@
 - 👋 Hi, this is Zefan Lu
 
-- 🧑‍💻 Software Engineer (HuHu AI SDE Intern / Job Hunting)
+- 🧑‍💻 Software Engineer (Job Hunting)
 
 - 📍 Seattle, WA
 
