@@ -1,6 +1,6 @@
 - 👋 Hi, this is Zefan
 
-- 🧑‍💻 Software Engineer (Job Hunting)
+- 🧑‍💻 Software Engineer (Still job hunting, contact me by lukezflu@gmail.com)
 
 - 📍 Seattle, WA
 
