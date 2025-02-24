@@ -1,4 +1,4 @@
-- 👋 Hi, this is Zefan Lu
+- 👋 Hi, this is Zefan
 
 - 🧑‍💻 Software Engineer (Job Hunting)
 
